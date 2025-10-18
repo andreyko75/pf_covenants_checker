@@ -230,8 +230,9 @@ python run.py cov --input examples/ok.json --explain
 
 ## 📬 Контакты
 
-* **GitHub:** your-username
-* **Email:** your-email@example.com
+* **Email:** andreyko75@gmail.com
+* **Telegram:** @hunter_xv
+* **GitHub:** andreyko75
 
 ---
 
